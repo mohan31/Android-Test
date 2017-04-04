@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Remainders</string>
+    <string name="action_settings">Settings</string>
+    <string name="shortTime">TimeTable</string>
+    <string name="longTime">TimeTable</string>
+    <string name="shortSyllabus">Syllabus</string>
+    <string name="longSyllabus">Syllabus</string>
+    <string name="title_activity_all">AllActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="list_names">
+
+        <item>Computer Network</item>
+        <item>Web Tech</item>
+        <item>Unix</item>
+        <item>Compter graphics</item>
+        <item>ADBMS</item>
+        <item>Pattern recognition</item>
+        <item>FAFL</item>
+        <item>Computer Network</item>
+        <item>Web Tech</item>
+        <item>Unix</item>
+        <item>Compter graphics</item>
+    </string-array>
+
+</resources>

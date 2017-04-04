@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="TimeTable"
+        android:enabled="true"
+        android:icon="@mipmap/done"
+        android:shortcutShortLabel="@string/shortTime"
+        android:shortcutLongLabel="@string/longTime"
+            >
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.example.raghu.first"
+            android:targetClass="com.example.raghu.first.TimeTableActivity" />
+        <!-- If your shortcut is associated with multiple intents, include them
+             here. The last intent in the list determines what the user sees when
+             they launch this shortcut. -->
+
+    </shortcut>
+    <!-- Specify more shortcuts here. -->
+    <shortcut
+        android:shortcutId="Syllabus"
+        android:enabled="true"
+        android:icon="@mipmap/done"
+        android:shortcutShortLabel="@string/shortSyllabus"
+        android:shortcutLongLabel="@string/longSyllabus"
+        >
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.example.raghu.first"
+            android:targetClass="com.example.raghu.first.SyllabusActivity" />
+        <!-- If your shortcut is associated with multiple intents, include them
+             here. The last intent in the list determines what the user sees when
+             they launch this shortcut. -->
+
+    </shortcut>
+</shortcuts>
+
+
