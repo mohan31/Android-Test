@@ -1,2 +1,2 @@
-# Fragments
-Simple app to show static loading of fragments into main activity
+# Android app testimg
+All apps are tested here
